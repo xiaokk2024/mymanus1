@@ -1,0 +1,12 @@
+openai
+python-dotenv
+numpy
+pandas
+pymysql
+requests
+beautifulsoup4
+python-dateutil
+tiktoken
+lxml
+matplotlib
+seaborn
