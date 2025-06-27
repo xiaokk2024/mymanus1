@@ -239,7 +239,7 @@ class mymanusClass:
             print("无法启动聊天：客户端未初始化。")
             return
 
-        print("你好，我是九天老师公开课制作的mymanus，有什么需要帮助的？")
+        print("你好，我是mymanus，有什么需要帮助的？")
         # chat方法现在直接使用和修改 self.messages
         
         # 确保 self.messages 的第一个消息是 system message (如果它是空的或不符合预期)
